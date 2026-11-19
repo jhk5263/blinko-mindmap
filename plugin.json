@@ -1,0 +1,20 @@
+{
+  "name": "blinko-mindmap",
+  "author": "YG",
+  "url": "https://github.com/jhk5263/mind",
+  "version": "1.0.0",
+  "minAppVersion": "0.0.0",
+  "displayName": {
+    "default": "Mind Map",
+    "zh": "思维导图",
+    "en": "Mind Map"
+  },
+  "description": {
+    "default": "Turn any note into an editable mind map. The map lives in the note metadata, so it travels with backups, shares and search.",
+    "zh": "把任意笔记变成可编辑的思维导图，导图存在笔记 metadata 里，跟着备份、分享和搜索走。",
+    "en": "Turn any note into an editable mind map. Stored in note metadata."
+  },
+  "readme": {
+    "default": "README.md"
+  }
+}
